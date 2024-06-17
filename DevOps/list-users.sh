@@ -1,5 +1,11 @@
 #!/bin/bash
 
+##################################
+# Author: Ananya
+# Date: 18 June 24
+# To get the user for a Repo in the GIT by passing UserName and Repo name in args
+##################################
+
 # GitHub API URL
 API_URL="https://api.github.com"
 
